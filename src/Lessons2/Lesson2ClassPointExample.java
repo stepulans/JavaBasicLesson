@@ -2,7 +2,6 @@ package Lessons2;
 
 public class Lesson2ClassPointExample {
     public static void main(String[] args) {
-        int a = 5;
 
         Point point = new Point();
 
