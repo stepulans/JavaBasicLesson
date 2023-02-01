@@ -1,4 +1,4 @@
-package Lessons2;
+package Lessons.Lessons2;
 
 public class Lesson2ClassPointExample {
     public static void main(String[] args) {

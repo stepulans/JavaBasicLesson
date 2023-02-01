@@ -1,4 +1,4 @@
-package Lessons2;
+package Lessons.Lessons2;
 
 public class CarDemo {
     public static void main(String[] args) {
