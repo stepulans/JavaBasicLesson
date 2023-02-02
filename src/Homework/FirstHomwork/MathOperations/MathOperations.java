@@ -1,22 +1,27 @@
 package Homework.FirstHomwork.MathOperations;
 
+import java.util.Scanner;
+
 public class MathOperations {
-    public int sum(int x, int y); {
-    int resultOfSum = x + y;
-    return resultOfSum;
-    }
-    public int minus(int x, int y){
-        int resultOfMinus = x - y;
-        return resultOfMinus;
-    }
+    public static void main(String[] args) {
 
-    public int multiplication(int x, int y);{
-        int resultOfMultiplication = x * y;
-        return resultOfMultiplication;
-    }
+        Scanner scanner = new Scanner(System.in);
 
-    public int div(int x, int y);{
-        int resultOfDiv = x / y;
-        return resultOfDiv;
+        System.out.println("Enter first number: ");
+        int a = scanner.nextInt();
+
+        System.out.println("Enter the second number");
+        int b = scanner.nextInt();
+
+         int sum = a + b;
+         int minus = a - b;
+         int multiply = a * b;
+         int divide = a / b;
+
+        System.out.println("Sum " + sum);
+        System.out.println("Minus " + minus);
+        System.out.println("Multiply " + multiply);
+        System.out.println("Divide " + divide);
+
     }
 }
