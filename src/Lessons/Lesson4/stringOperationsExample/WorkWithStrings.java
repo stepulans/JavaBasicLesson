@@ -3,11 +3,11 @@ package Lessons.Lesson4.stringOperationsExample;
 public class WorkWithStrings {
     public static void main(String[] args) {
 
-        String text = " Teksts String tipa darba parbaude ";
+        String text = " Это текст для проверки работы методов типа String. ";
 
         System.out.println("Our working text is - " + text);
 
-        String testString1 = "darba";
+        String testString1 = "работ";
 
         boolean resultContains = text.contains(testString1);
 
