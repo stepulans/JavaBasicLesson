@@ -4,17 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e35ae68a-c60e-4fde-801f-936c7a576845" name="Changes" comment="Lesson2">
+    <list default="true" id="e35ae68a-c60e-4fde-801f-936c7a576845" name="Changes" comment="Lesson4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons1/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lessons1/Lesson1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lessons2/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons2/CarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lessons2/CarDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lessons2/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons2/CatAndDogExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lessons2/CatAndDogExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lessons2/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons2/Lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lessons2/Lesson2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons2/Lesson2ClassPointExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lessons2/Lesson2ClassPointExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons2/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lessons2/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons1/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson1/Lesson1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson2/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons2/CarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson2/CarDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson2/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons2/CatAndDogExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson2/CatAndDogExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson2/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons2/Lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson2/Lesson2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons2/Lesson2ClassPointExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson2/Lesson2ClassPointExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons2/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson2/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons3/Calculator/CalculatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/Calculator/CalculatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons3/Calculator/CalculatorOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/Calculator/CalculatorOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons3/Calculator/CalculatorUserInputExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/Calculator/CalculatorUserInputExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons3/Calculator/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/Calculator/UserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons3/Calculator/UserInputInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/Calculator/UserInputInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons3/dogExemple/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/dogExemple/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lessons3/dogExemple/DogDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/dogExemple/DogDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +56,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lessons.Lesson4.stringOperationsExample" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -100,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675193105278</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lesson3">
+      <created>1675278214119</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675278214119</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lesson3">
+      <created>1675278231740</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675278231740</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson2" />
+    <MESSAGE value="Lesson3" />
+    <MESSAGE value="Lesson4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson4" />
   </component>
 </project>

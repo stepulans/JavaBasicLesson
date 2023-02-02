@@ -1,4 +1,4 @@
-package Lessons.Lessons2;
+package Lessons.Lesson2;
 
 
 public class CatAndDogExample {

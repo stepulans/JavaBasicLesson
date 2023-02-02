@@ -1,4 +1,4 @@
-package Lessons.Lessons3.Calculator;
+package Lessons.Lesson3.Calculator;
 
 public class CalculatorOperations {
 

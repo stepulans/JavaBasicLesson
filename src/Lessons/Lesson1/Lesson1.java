@@ -1,4 +1,4 @@
-package Lessons.Lessons1;
+package Lessons.Lesson1;
 
 public class Lesson1 {
 
