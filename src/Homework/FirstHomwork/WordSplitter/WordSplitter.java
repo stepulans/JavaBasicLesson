@@ -14,7 +14,7 @@ public class WordSplitter {
 
         int half = word1.length() / 2;
         int half2 = word2.length() / 2;
-        String word3 = word1.substring(0, half) + word2.substring(half2, 0);
+        String word3 = word1.substring(0, half) + word2.substring(half2);
 
         System.out.println("New word is: " + word3);
     }
