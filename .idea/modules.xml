@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/src/Homework/FirstHomwork/DifferentJdk/JDK11/JDK11.iml" filepath="$PROJECT_DIR$/src/Homework/FirstHomwork/DifferentJdk/JDK11/JDK11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/Homework/FirstHomwork/DifferentJdk/JDK17/JDK17.iml" filepath="$PROJECT_DIR$/src/Homework/FirstHomwork/DifferentJdk/JDK17/JDK17.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaBasicLesson.iml" filepath="$PROJECT_DIR$/JavaBasicLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Homework/FirstHomwork/DifferentJdk/jdk11/jdk11.iml" filepath="$PROJECT_DIR$/src/Homework/FirstHomwork/DifferentJdk/jdk11/jdk11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Homework/FirstHomwork/DifferentJdk/jdk17/jdk17.iml" filepath="$PROJECT_DIR$/src/Homework/FirstHomwork/DifferentJdk/jdk17/jdk17.iml" />
     </modules>
   </component>
 </project>
