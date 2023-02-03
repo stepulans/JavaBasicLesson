@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e35ae68a-c60e-4fde-801f-936c7a576845" name="Changes" comment="Homework1">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homework/FirstHomwork/WordSplitter/WordSplitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/FirstHomwork/WordSplitter/WordSplitter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/FirstHomwork/WordSplitter/WordSplitterScanner.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,20 @@
       <recent name="Lessons.Lesson4.stringOperationsExample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordSplitter">
+  <component name="RunManager" selected="Application.MathOperations">
+    <configuration name="CaloriesOfPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.CaloriesOfPizza.CaloriesOfPizza" />
+      <module name="JavaBasicLesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.FirstHomwork.CaloriesOfPizza.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CurrencyConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.CurrencyConverter.CurrencyConverter" />
       <module name="JavaBasicLesson" />
@@ -71,22 +83,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CurrencyConverter6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.CurrencyConverter.CurrencyConverter6" />
+    <configuration name="Lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson1.Lesson1" />
       <module name="JavaBasicLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.FirstHomwork.CurrencyConverter.*" />
+          <option name="PATTERN" value="Lessons.Lesson1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JDK11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK11" />
-      <module name="JDK11" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,10 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathOperations" />
         <item itemvalue="Application.WordSplitter" />
+        <item itemvalue="Application.Lesson1" />
+        <item itemvalue="Application.CaloriesOfPizza" />
         <item itemvalue="Application.CurrencyConverter" />
-        <item itemvalue="Application.CurrencyConverter6" />
-        <item itemvalue="Application.JDK11" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +263,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675421810787</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Homework1">
+      <created>1675422223396</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675422223396</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Homework1">
+      <created>1675422241114</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1675422241114</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
