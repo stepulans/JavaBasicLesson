@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e35ae68a-c60e-4fde-801f-936c7a576845" name="Changes" comment="Homework1">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/FirstHomwork/CaloriesOfPizza/CaloriesOfPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/FirstHomwork/CaloriesOfPizza/CaloriesOfPizza.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,7 @@
       <recent name="Lessons.Lesson4.stringOperationsExample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CaloriesOfPizza">
+  <component name="RunManager" selected="Application.Numbers">
     <configuration name="CaloriesOfPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.CaloriesOfPizza.CaloriesOfPizza" />
       <module name="JavaBasicLesson" />
@@ -107,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordSplitter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.WordSplitter.WordSplitter" />
+    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.Numbers.Numbers" />
       <module name="JavaBasicLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.FirstHomwork.WordSplitter.*" />
+          <option name="PATTERN" value="Homework.FirstHomwork.Numbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.CaloriesOfPizza" />
         <item itemvalue="Application.MathOperations" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.JDK11" />
-        <item itemvalue="Application.WordSplitter" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675452332577</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Homework1">
+      <created>1675454295013</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1675454295013</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
