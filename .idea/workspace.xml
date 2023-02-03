@@ -299,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675441386291</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Homework1">
+      <created>1675441503716</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1675441503716</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -314,6 +321,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/Homework/FirstHomwork/DifferentJDK/JDK11" />
+      <path value="$PROJECT_DIR$/src/Homework/FirstHomwork/DifferentJDK/JDK17" />
+    </ignored-roots>
     <MESSAGE value="Lesson2" />
     <MESSAGE value="Lesson3" />
     <MESSAGE value="Lesson4" />
