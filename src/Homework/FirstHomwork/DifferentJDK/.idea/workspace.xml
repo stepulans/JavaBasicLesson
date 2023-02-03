@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="926b7864-9dd4-4b9c-b851-c50735e0a9e7" name="Changes" comment="Different JDK">
+      <change afterPath="$PROJECT_DIR$/JDK11/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK11/JDK11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK11/src/JDK11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK17/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK17/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK17/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK17/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK17/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK17/JDK17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK17/src/JDK17.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JDK11" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LCfDnMvnfBmsvllPnNjPbmy6ma" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cheho/Desktop/DifferentJDK&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="926b7864-9dd4-4b9c-b851-c50735e0a9e7" name="Changes" comment="" />
+      <created>1675379867157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675379867157</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Different JDK" />
+    <option name="LAST_COMMIT_MESSAGE" value="Different JDK" />
+  </component>
+</project>
