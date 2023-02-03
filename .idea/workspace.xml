@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e35ae68a-c60e-4fde-801f-936c7a576845" name="Changes" comment="Homework1" />
+    <list default="true" id="e35ae68a-c60e-4fde-801f-936c7a576845" name="Changes" comment="Homework1">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/FirstHomwork/WordSplitter/WordSplitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/FirstHomwork/WordSplitter/WordSplitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/FirstHomwork/WordSplitter/WordSplitterScanner.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -246,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675419526120</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Homework1">
+      <created>1675421810787</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675421810787</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

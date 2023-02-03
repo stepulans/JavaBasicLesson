@@ -1,16 +1,13 @@
 package Homework.FirstHomwork.WordSplitter;
 
-import java.util.Scanner;
-
 public class WordSplitter {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        String string = new String();
 
-        System.out.println("Enter first word ");
-        String word1 = scanner.nextLine();
-
-        System.out.println("Enter second name ");
-        String word2 = scanner.nextLine();
+        String word1 = "Zucker";
+        System.out.println(word1);
+        String word2 = "University";
+        System.out.println(word2);
 
         int half = word1.length() / 2;
         int half2 = word2.length() / 2;
