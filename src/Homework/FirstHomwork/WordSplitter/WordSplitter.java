@@ -5,13 +5,13 @@ public class WordSplitter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter first word: ");
+        System.out.println("Enter first word: (It should contain only adjective letter amount) ");
         String word1 = scanner.next();
         int len = word1.length();
         System.out.println("Amount of first word letter is: " + len);
 
 
-        System.out.println("Enter second word: ");
+        System.out.println("Enter second word: (Its should contain only adjective letter amount) ");
         String word2 = scanner.next();
         int len2 = word2.length();
         System.out.println("Amount of second word letter is " + len2);
