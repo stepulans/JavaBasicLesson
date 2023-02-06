@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e35ae68a-c60e-4fde-801f-936c7a576845" name="Changes" comment="Homework1" />
+    <list default="true" id="e35ae68a-c60e-4fde-801f-936c7a576845" name="Changes" comment="Homework1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +58,7 @@
       <recent name="Lessons.Lesson4.stringOperationsExample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordSplitter">
+  <component name="RunManager" selected="Application.CurrencyConverter">
     <configuration name="CaloriesOfPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.CaloriesOfPizza.CaloriesOfPizza" />
       <module name="JavaBasicLesson" />
@@ -124,8 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WordSplitter" />
         <item itemvalue="Application.CurrencyConverter" />
+        <item itemvalue="Application.WordSplitter" />
         <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.CaloriesOfPizza" />
         <item itemvalue="Application.MathOperations" />
@@ -368,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675672867863</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Homework1">
+      <created>1675673181013</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1675673181013</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
