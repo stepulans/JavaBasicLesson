@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e35ae68a-c60e-4fde-801f-936c7a576845" name="Changes" comment="Homework1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson5/MAin.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cheho\IdeaProjects\JavaBasicLesson\src\Lessons\Lesson5\binarSystem" />
       <recent name="C:\Users\cheho\IdeaProjects\JavaBasicLesson\src\Homework\FirstHomwork" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -58,13 +60,13 @@
       <recent name="Lessons.Lesson4.stringOperationsExample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CurrencyConverter">
-    <configuration name="CaloriesOfPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.CaloriesOfPizza.CaloriesOfPizza" />
+  <component name="RunManager" selected="Application.CarDemo">
+    <configuration name="CarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.lesson7.lessoncode.car.CarDemo" />
       <module name="JavaBasicLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.FirstHomwork.CaloriesOfPizza.*" />
+          <option name="PATTERN" value="Lessons.lesson7.lessoncode.car.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.MathOperations.MathOperations" />
+    <configuration name="MainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.MainMethod.MainMethod" />
       <module name="JavaBasicLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.FirstHomwork.MathOperations.*" />
+          <option name="PATTERN" value="Homework.FirstHomwork.MainMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarDemo" />
         <item itemvalue="Application.CurrencyConverter" />
+        <item itemvalue="Application.MainMethod" />
         <item itemvalue="Application.WordSplitter" />
         <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.CaloriesOfPizza" />
-        <item itemvalue="Application.MathOperations" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675673181013</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Homework1">
+      <created>1675673500371</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1675673500371</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
