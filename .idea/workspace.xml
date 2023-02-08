@@ -4,8 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e35ae68a-c60e-4fde-801f-936c7a576845" name="Changes" comment="Homework1">
+    <list default="true" id="e35ae68a-c60e-4fde-801f-936c7a576845" name="Changes" comment="Lesson">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson1/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson1/Lesson1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson2/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson2/CarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson2/CarDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson2/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson2/CatAndDogExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson2/CatAndDogExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson2/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson2/Lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson2/Lesson2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson2/Lesson2ClassPointExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson2/Lesson2ClassPointExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson2/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson2/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson3/Calculator/CalculatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson3/Calculator/CalculatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson3/Calculator/CalculatorOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson3/Calculator/CalculatorOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson3/Calculator/CalculatorUserInputExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson3/Calculator/CalculatorUserInputExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson3/Calculator/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson3/Calculator/UserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson3/Calculator/UserInputInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson3/Calculator/UserInputInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson3/dogExemple/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson3/dogExemple/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson3/dogExemple/DogDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson3/dogExemple/DogDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson4/constructionsExample/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson4/constructionsExample/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson4/constructionsExample/CatDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson4/constructionsExample/CatDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson4/stringOperationsExample/StringOperatins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson4/stringOperationsExample/StringOperatins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson4/stringOperationsExample/WorkWithStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson4/stringOperationsExample/WorkWithStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson4/stringOperationsExample/WorkWithStrings2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson4/stringOperationsExample/WorkWithStrings2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson7/lessoncode/dogEntity/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/DogDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson7/lessoncode/dogEntity/DogDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson7/lessoncode/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson7/lessoncode/car/CarColors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson7/lessoncode/car/CarDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/Manufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson7/lessoncode/car/Manufacturer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +53,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2L5PIgUffTAGcuKDJOw2iZHFW0U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,6 +76,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cheho\IdeaProjects\JavaBasicLesson\src\Lessons\Lesson5\binarSystem" />
       <recent name="C:\Users\cheho\IdeaProjects\JavaBasicLesson\src\Homework\FirstHomwork" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -58,13 +86,26 @@
       <recent name="Lessons.Lesson4.stringOperationsExample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CurrencyConverter">
-    <configuration name="CaloriesOfPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.CaloriesOfPizza.CaloriesOfPizza" />
+  <component name="RunManager" selected="Application.IfRandomApplication">
+    <configuration name="CarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson7.lessoncode.car.CarDemo" />
       <module name="JavaBasicLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.FirstHomwork.CaloriesOfPizza.*" />
+          <option name="PATTERN" value="lessons.lesson7.lessoncode.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson5.constructorExample.CatDemo" />
+      <module name="JavaBasicLesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessons.lesson5.constructorExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.MathOperations.MathOperations" />
+    <configuration name="IfRandomApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson7.lessoncode.ifAndRandomAndUserInput.IfRandomApplication" />
       <module name="JavaBasicLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.FirstHomwork.MathOperations.*" />
+          <option name="PATTERN" value="lessons.lesson7.lessoncode.ifAndRandomAndUserInput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,25 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.Numbers.Numbers" />
+    <configuration name="MainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.MainMethod.MainMethod" />
       <module name="JavaBasicLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.FirstHomwork.Numbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordSplitter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.FirstHomwork.WordSplitter.WordSplitter" />
-      <module name="JavaBasicLesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.FirstHomwork.WordSplitter.*" />
+          <option name="PATTERN" value="Homework.FirstHomwork.MainMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfRandomApplication" />
+        <item itemvalue="Application.CatDemo" />
+        <item itemvalue="Application.CarDemo" />
         <item itemvalue="Application.CurrencyConverter" />
-        <item itemvalue="Application.WordSplitter" />
-        <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.CaloriesOfPizza" />
-        <item itemvalue="Application.MathOperations" />
+        <item itemvalue="Application.MainMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +405,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675673181013</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Homework1">
+      <created>1675673500371</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1675673500371</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Lesson">
+      <created>1675854117372</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1675854117372</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,6 +444,7 @@
     <MESSAGE value="Lesson3" />
     <MESSAGE value="Lesson4" />
     <MESSAGE value="Homework1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework1" />
+    <MESSAGE value="Lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson" />
   </component>
 </project>
