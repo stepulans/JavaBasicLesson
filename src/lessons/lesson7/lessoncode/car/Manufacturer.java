@@ -5,7 +5,7 @@ public class Manufacturer {
     int year;
 
     public Manufacturer(String manufacturer, int year) {
-        this.manufacturerFullName = manufacturerFullName;
+        this.manufacturerFullName = manufacturer;
         this.year = year;
     }
 

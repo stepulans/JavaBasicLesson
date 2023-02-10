@@ -14,7 +14,7 @@ public class NumbersUtils {
 
         boolean anyNotEquals = true;
 
-        if (isEquals(number1,number2) && isEquals(number2,number3)){
+        if (isEquals(number1,number2) && isEquals(number2,number3) && isEquals(number1,number3)){
             anyNotEquals = false;
             System.out.println("All numbers are equals!!!");
         } else {

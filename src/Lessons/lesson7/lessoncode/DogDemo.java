@@ -1,4 +1,4 @@
-package Lessons.lesson7.lessoncode;
+package lessons.lesson7.lessoncode;
 
 public class DogDemo {
     public static void main(String[] args) {

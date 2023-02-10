@@ -1,4 +1,4 @@
-package Lessons.lesson7.lessoncode;
+package lessons.lesson7.lessoncode;
 /*
     Тема: создание класса Dog.
 

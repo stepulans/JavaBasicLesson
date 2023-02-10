@@ -10,7 +10,7 @@ public class WorkWithStrings2 {
         String testString1 = "работ";
 
         text = text.toLowerCase();
-// maina uy mayajiem burtiem
+// maina uz mazajiem burtiem
         System.out.println(text);
 
         boolean resultContains = text.contains(testString1);
