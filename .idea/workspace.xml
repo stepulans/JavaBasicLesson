@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e344677b-4592-4958-ab49-8026e71c273d" name="Changes" comment="">
+    <list default="true" id="e344677b-4592-4958-ab49-8026e71c273d" name="Changes" comment="Homework 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/DogDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/DogDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/secondHomework/Device/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/secondHomework/Device/Device.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarColors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/Manufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/Manufacturer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/ifAndRandomAndUserInput/NumbersUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/ifAndRandomAndUserInput/NumbersUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/ifAndRandomAndUserInput/RandomGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/ifAndRandomAndUserInput/RandomGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/ifAndRandomAndUserInput/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/ifAndRandomAndUserInput/UserInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson4/stringOperationsExample/WorkWithStrings2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson4/stringOperationsExample/WorkWithStrings2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +69,7 @@
       <recent name="Lessons.Lesson4.stringOperationsExample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MoneyWithDrawing">
+  <component name="RunManager" selected="Application.Clock">
     <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.secondHomework.Clock.Clock" />
       <module name="JavaBasicLesson" />
@@ -142,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MoneyWithDrawing" />
         <item itemvalue="Application.Clock" />
         <item itemvalue="Application.Device" />
-        <item itemvalue="Application.device2" />
+        <item itemvalue="Application.MoneyWithDrawing" />
         <item itemvalue="Application.EdekaAndRewe" />
+        <item itemvalue="Application.device2" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +402,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675854117372</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Homework 2">
+      <created>1676061817581</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1676061817581</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Homework 2">
+      <created>1676061949827</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1676061949827</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,6 +442,7 @@
     <MESSAGE value="Lesson4" />
     <MESSAGE value="Homework1" />
     <MESSAGE value="Lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson" />
+    <MESSAGE value="Homework 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 2" />
   </component>
 </project>

@@ -23,7 +23,7 @@ public class Device {
             boolean checkDevice = true;
             System.out.println("Device works well - " + checkDevice);
         }
-        if (Temperature1>100 || Temperature2<100){
+        if (Temperature1>100 && Temperature2<100){
             boolean chekDevice = true;
             System.out.println("Device works perffect - " + chekDevice);
         }
