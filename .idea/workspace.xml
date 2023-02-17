@@ -5,8 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e344677b-4592-4958-ab49-8026e71c273d" name="Changes" comment="Homework 2">
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/PhoneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/SimCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/innerClass/InnerAndNastedClasses" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/innerClass/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/innerClass/OuterAndInnerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/innerClass/PhoneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/innerClass/PhoneWithInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/innerClass/picInner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/lessoncode/Colba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/lessoncode/ColbaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/lessoncode/ColbaDemoWithClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/lessoncode/ColbaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/lessoncode/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/lessoncode2/KelvinAndFahrenheitConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/lessoncode2/TermoConverterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/lessoncode2/TermoConverterTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/randomStudent/ChooseRandomStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson9/randomStudent/Students.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homework/secondHomework/Device/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/secondHomework/Device/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/secondHomework/Shop/EdekaAndRewe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/secondHomework/Shop/EdekaAndRewe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/secondHomework/Weekend/WeekendAndRain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/secondHomework/Weekend/WeekendAndRain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarColors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarDemo.java" afterDir="false" />
@@ -39,23 +60,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/cheho/IdeaProjects/JavaBasicLesson/src&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/cheho/IdeaProjects/JavaBasicLesson/src/lessons",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\cheho\IdeaProjects\JavaBasicLesson\src" />
       <recent name="C:\Users\cheho\IdeaProjects\JavaBasicLesson\src\lessons" />
+      <recent name="C:\Users\cheho\IdeaProjects\JavaBasicLesson\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\cheho\IdeaProjects\JavaBasicLesson\src\Lessons\Lesson5\binarSystem" />
@@ -69,7 +90,7 @@
       <recent name="Lessons.Lesson4.stringOperationsExample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Clock">
+  <component name="RunManager" selected="Application.Device">
     <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.secondHomework.Clock.Clock" />
       <module name="JavaBasicLesson" />
@@ -122,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="device2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.secondHomework.Device.device2" />
+    <configuration name="WeekendAndRain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.secondHomework.Weekend.WeekendAndRain" />
       <module name="JavaBasicLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.secondHomework.Device.*" />
+          <option name="PATTERN" value="Homework.secondHomework.Weekend.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Clock" />
         <item itemvalue="Application.Device" />
-        <item itemvalue="Application.MoneyWithDrawing" />
         <item itemvalue="Application.EdekaAndRewe" />
-        <item itemvalue="Application.device2" />
+        <item itemvalue="Application.WeekendAndRain" />
+        <item itemvalue="Application.Clock" />
+        <item itemvalue="Application.MoneyWithDrawing" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676061949827</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Homework 2">
+      <created>1676148185384</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1676148185384</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -4,13 +4,13 @@ public class WeekendAndRain {
     public static void main(String[] args) {
 
         boolean isWeekend = false;
-        boolean isRain = false;
+        boolean isRain = true;
         boolean canWalk;
 
-        if (!isRain || isWeekend) {
+        if (isRain && isWeekend) {
             canWalk = false;
 
-        } if (isRain || !isWeekend) {
+        } else  {
             canWalk = true;
             System.out.println("We are going outside");
         }

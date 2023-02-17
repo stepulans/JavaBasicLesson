@@ -5,7 +5,7 @@ public class EdekaAndRewe {
 
             boolean isEdekaOpen = false;
             boolean isReweOpen = false;
-            boolean canBuy = false;
+            boolean canBuy;
 
             if (canBuy(false, false)) {
                 canBuy = false;
