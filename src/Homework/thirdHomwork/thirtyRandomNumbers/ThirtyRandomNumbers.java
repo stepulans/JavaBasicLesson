@@ -10,7 +10,6 @@ public class ThirtyRandomNumbers {
         ThirtyRandomNumbersUtil trnu = new ThirtyRandomNumbersUtil();
         Random random = new Random();
         int[] arrays = new int [30];
-        int min = Integer.MAX_VALUE;
 
 
         for (int i = 0; i < arrays.length; i++){
