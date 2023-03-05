@@ -4,42 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e344677b-4592-4958-ab49-8026e71c273d" name="Changes" comment="Homework3">
-      <change afterPath="$PROJECT_DIR$/src/Homework/fourthHomework/findMissingElement/FindMissingElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/fourthHomework/pairsInArray/NumberOfPairsInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson13/lessoncode/LessonTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson13/lessoncode/LessonTask1Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson13/lessoncode/LessonTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson13/lessoncode/LessonTask2Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson13/lessoncode/LoopExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson13/lessoncode/modifyArray/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson13/lessoncode/modifyArray/ModifyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson13/lessoncode/modifyArray/WorkWithArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson13/lessoncode/twoDimArray/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson13/lessoncode/twoDimArray/CreateAndFillArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson13/lessoncode/twoDimArray/TwoDimArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson13/lessoncode/twoDimArray/UserInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson14_15/addTasks.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson14_15/lessoncode/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson14_15/lessoncode/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson14_15/lessoncode/Task1Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson14_15/poker/PokerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson14_15/poker/entity/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson14_15/poker/entity/Cards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson14_15/poker/entity/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson14_15/poker/logic/CardTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson14_15/poker/service/CardTableUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson14_15/poker/service/InputData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson16/search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson16/search/JumpSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson16/search/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson16/search/SearchIUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson16/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson16/sort/ChooseSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson16/sort/InsertSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/lesson16/sort/sortWithJavaMethods/SortExampleArray.java" afterDir="false" />
+    <list default="true" id="e344677b-4592-4958-ab49-8026e71c273d" name="Changes" comment="Homework4">
+      <change afterPath="$PROJECT_DIR$/src/Homework/lastHomework/FieldOfMiracle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/thirdHomwork/thirtyRandomNumbers/ThirtyRandomNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/thirdHomwork/thirtyRandomNumbers/ThirtyRandomNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarColors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/lesson7/lessoncode/car/CarDemo.java" afterDir="false" />
@@ -54,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -72,19 +40,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/cheho/IdeaProjects/JavaBasicLesson/src/lessons&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/cheho/IdeaProjects/JavaBasicLesson/src/lessons",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\cheho\IdeaProjects\JavaBasicLesson\src\lessons" />
@@ -96,21 +71,27 @@
       <recent name="C:\Users\cheho\IdeaProjects\JavaBasicLesson\src\Lessons\Lesson5\binarSystem" />
       <recent name="C:\Users\cheho\IdeaProjects\JavaBasicLesson\src\Homework\FirstHomwork" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Homework.FirstHomwork" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Homework.lastHomework" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lessons.lesson7.lessoncode.ifAndRandomAndUserInput" />
       <recent name="Lessons.Lesson4.stringOperationsExample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberOfPairsInArray">
-    <configuration name="EightRandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.thirdHomwork.eightRandomnumbers.EightRandomNumbers" />
+  <component name="RunManager" selected="Application.FieldOfMiracleTest">
+    <configuration name="FieldOfMiracle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.lastHomework.FieldOfMiracle" />
       <module name="JavaBasicLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.thirdHomwork.eightRandomnumbers.*" />
+          <option name="PATTERN" value="Homework.lastHomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,25 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMissingElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.fourthHomework.findMissingElement.FindMissingElement" />
+    <configuration name="FieldOfMiracleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.lastHomework.FieldOfMiracleTest" />
       <module name="JavaBasicLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.fourthHomework.findMissingElement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FiveRandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.thirdHomwork.fiveRandomnumbers.FiveRandomNumbers" />
-      <module name="JavaBasicLesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.thirdHomwork.fiveRandomnumbers.*" />
+          <option name="PATTERN" value="Homework.lastHomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +125,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirtyRandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.thirdHomwork.thirtyRandomNumbers.ThirtyRandomNumbers" />
+    <configuration name="TestQuestion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalTest.TestQuestion1" />
       <module name="JavaBasicLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.thirdHomwork.thirtyRandomNumbers.*" />
+          <option name="PATTERN" value="finalTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestQuestion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalTest.TestQuestion2" />
+      <module name="JavaBasicLesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FieldOfMiracleTest" />
+        <item itemvalue="Application.FieldOfMiracle" />
+        <item itemvalue="Application.TestQuestion2" />
+        <item itemvalue="Application.TestQuestion1" />
         <item itemvalue="Application.NumberOfPairsInArray" />
-        <item itemvalue="Application.FindMissingElement" />
-        <item itemvalue="Application.ThirtyRandomNumbers" />
-        <item itemvalue="Application.FiveRandomNumbers" />
-        <item itemvalue="Application.EightRandomNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -479,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676931634069</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Homework4">
+      <created>1677420422098</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1677420422098</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -508,6 +496,7 @@
     <MESSAGE value="Homework 2" />
     <MESSAGE value="lesson" />
     <MESSAGE value="Homework3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework3" />
+    <MESSAGE value="Homework4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework4" />
   </component>
 </project>
